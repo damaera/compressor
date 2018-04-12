@@ -1,0 +1,12 @@
+{
+  "name": "compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/damaera/compressor",
+  "author": "Damaera <damaera@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dsteem": "^0.8.7",
+    "express": "^4.16.3"
+  }
+}
