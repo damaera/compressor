@@ -6,7 +6,7 @@ module.exports = function(req, res) {
     api.database
       .getDiscussions("trending", {
         tag,
-        limit: 20,
+        limit: 50,
         truncate_body: 1
       })
       .then(collection => {

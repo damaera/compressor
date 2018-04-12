@@ -9,5 +9,6 @@ const route = (param, filename) => {
 
 route("/post", "post");
 route("/related", "related");
+route("/image-size", "image-size");
 
 app.listen(3000, () => console.log("Example app listening on port 3000!"));

@@ -7,6 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "dsteem": "^0.8.7",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "image-size": "^0.6.2",
+    "probe-image-size": "^4.0.0"
   }
 }

@@ -73,6 +73,9 @@ module.exports = function(req, res) {
             }
           } catch (e) {}
 
+          if (item.poster) {
+          }
+
           return item;
         })
       );
