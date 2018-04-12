@@ -645,6 +645,10 @@ raw-body@2.3.2:
     iconv-lite "0.4.19"
     unpipe "1.0.0"
 
+reading-time@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/reading-time/-/reading-time-1.1.0.tgz#b0a13cb8511f5eaa570cf104d1ba0d68d50aa471"
+
 request@^2.83.0:
   version "2.85.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.85.0.tgz#5a03615a47c61420b3eb99b7dba204f83603e1fa"

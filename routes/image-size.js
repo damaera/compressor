@@ -29,8 +29,6 @@ module.exports = function(req, res) {
     promises.push(promise);
   });
 
-  console.log(promises);
-
   Promise.all(promises)
     .then(values => {
       res.json(values);
